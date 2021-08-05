@@ -1,2 +1,9 @@
 rootProject.name = "AndroidLearningCodes"
-include ':app'
+//apt start
+include ':apt'
+include ':apt:lib-annotation'
+include ':apt:lib-annotation-compiler'
+include ':apt:arouter-api'
+include ':apt:module-one'
+include ':apt:module-two'
+//apt end
