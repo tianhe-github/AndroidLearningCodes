@@ -21,11 +21,13 @@
     </annotationProcessing>
     <bytecodeTargetLevel target="1.7">
       <module name="AndroidLearningCodes.app" target="11" />
-      <module name="AndroidLearningCodes.apt" target="11" />
-      <module name="AndroidLearningCodes.apt.arouter-api" target="11" />
+      <module name="AndroidLearningCodes.apt" target="1.8" />
+      <module name="AndroidLearningCodes.apt.arouter-api" target="1.8" />
       <module name="AndroidLearningCodes.apt.module-a" target="11" />
-      <module name="AndroidLearningCodes.apt.module-one" target="11" />
-      <module name="AndroidLearningCodes.apt.module-two" target="11" />
+      <module name="AndroidLearningCodes.apt.module-one" target="1.8" />
+      <module name="AndroidLearningCodes.apt.module-two" target="1.8" />
+      <module name="AndroidLearningCodes.service-communicate" target="1.8" />
+      <module name="AndroidLearningCodes.service-communicate.dutil" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -7,3 +7,7 @@ include ':apt:arouter-api'
 include ':apt:module-one'
 include ':apt:module-two'
 //apt end
+
+//apt start
+include ':service-communicate'
+//apt end
