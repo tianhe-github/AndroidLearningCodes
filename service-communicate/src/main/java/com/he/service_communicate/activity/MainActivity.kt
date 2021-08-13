@@ -20,6 +20,8 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun service2Messager(view: View) {
+        val intent = Intent(this, ServiceToMessengerActivity::class.java)
+        startActivity(intent)
 
     }
 }
