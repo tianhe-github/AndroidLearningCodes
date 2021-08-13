@@ -6,8 +6,8 @@
     <br/>
 - ### Service 与 Activity通信 。
   > [service-communicate](https://github.com/tianhe-github/AndroidLearningCodes/tree/master/service-communicate)
-    -- Service通过BroadcastReceiver和Activity通信
-    -- Service通过 和Activity通信
+    - Service通过BroadcastReceiver和Activity通信
+    - Service通过 和Activity通信
 
 
 
