@@ -11,3 +11,4 @@ include ':apt:module-two'
 //apt start
 include ':service-communicate'
 //apt end
+include ':notification-channels'
