@@ -1,4 +1,4 @@
-# AndroidLearningCodes
+AndroidLearningCodes
 ======================
 
 - ### APT（Annotation Processing Tool）注解处理器，一种编译时技术。
