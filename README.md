@@ -13,7 +13,7 @@
 
     <br/>
 - ### notification channels (兼容 8.0)
-  > [notification-channels](https://github.com/tianhe-github/AndroidLearningCodes/tree/master/service-communicate)
+  > [notification-channels](https://github.com/tianhe-github/AndroidLearningCodes/tree/master/notification-channels)
 
 
 
