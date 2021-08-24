@@ -29,6 +29,7 @@
       <module name="AndroidLearningCodes.notification-channels" target="1.8" />
       <module name="AndroidLearningCodes.service-communicate" target="1.8" />
       <module name="AndroidLearningCodes.service-communicate.dutil" target="1.8" />
+      <module name="AndroidLearningCodes.share" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

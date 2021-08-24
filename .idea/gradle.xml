@@ -18,6 +18,7 @@
             <option value="$PROJECT_DIR$/apt/module-two" />
             <option value="$PROJECT_DIR$/notification-channels" />
             <option value="$PROJECT_DIR$/service-communicate" />
+            <option value="$PROJECT_DIR$/share" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
